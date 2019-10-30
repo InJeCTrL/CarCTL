@@ -1,0 +1,189 @@
+﻿  CarCTL.c
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(141): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(151): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(161): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(171): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(181): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(191): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(201): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(211): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(221): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(231): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(241): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(251): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(261): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(271): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(281): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(291): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(301): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(311): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(352): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(353): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(927): note: 参见“mbstowcs”的声明
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(382): warning C4133: “=”: 从“HFONT”到“HWND”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(383): warning C4133: “=”: 从“HFONT”到“HWND”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(384): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(385): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(386): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(387): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(388): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(389): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(390): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(391): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(392): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(393): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(394): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(395): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(396): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(397): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(398): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(399): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(400): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(401): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(402): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(403): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(404): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(405): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(406): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(407): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(408): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(409): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(410): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(411): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(412): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(413): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(414): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(415): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(416): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(417): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(418): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(419): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(420): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(421): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(422): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(423): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(424): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(425): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(426): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(427): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(428): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(429): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(430): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(431): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(432): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(433): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(435): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(436): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(437): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(438): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(439): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(440): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(441): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(442): warning C4133: “函数”: 从“HWND”到“HINSTANCE”的类型不兼容
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(445): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(445): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(446): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(446): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(447): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(447): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(448): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(448): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(449): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(449): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(450): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(450): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(451): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(451): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(452): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(452): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(453): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(453): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(454): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(454): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(455): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(455): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(456): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(456): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(457): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(457): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(458): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(458): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(459): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(459): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(460): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(460): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(461): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(461): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(462): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(462): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(463): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(463): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(464): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(464): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(465): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(465): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(466): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(466): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(467): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(467): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(468): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(468): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(469): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(469): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(470): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(470): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(471): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(471): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(472): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(472): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(473): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(473): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(476): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(476): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(480): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(480): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(482): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(482): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(483): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(483): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(484): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(484): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(485): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(485): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(486): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(486): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(487): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(487): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(488): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(488): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(489): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(489): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(490): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(490): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(491): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(491): warning C4024: “SendMessageW”: 形参和实参 4 的类型不同
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(563): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1015): note: 参见“wcstombs”的声明
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(565): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1015): note: 参见“wcstombs”的声明
+c:\users\administrator\desktop\test\carctl\carctl\carctl.c(709): warning C4028: 形参 3 与声明不同
+  CarCTL.vcxproj -> C:\Users\Administrator\Desktop\Test\CarCTL\Debug\CarCTL.exe
